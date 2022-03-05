@@ -19,8 +19,8 @@ function Result(props) {
                     </div>
                     <div className="row">
                         <label className="weather-label gray">Temperature:</label>
-                        <label className="weather-temperature">{props.weather.main.temp_max}&#8451;&nbsp;~</label>
-                        <label className="weather-temperature">&nbsp;{props.weather.main.temp_min}&#8451;</label>
+                        <label className="weather-temperature">{props.weather.main.temp_min}&#8451;&nbsp;~</label>
+                        <label className="weather-temperature">&nbsp;{props.weather.main.temp_max}&#8451;</label>
                     </div>
                     <div className="row">
                         <label className="weather-label gray">Humidity:</label>
