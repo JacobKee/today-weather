@@ -1,0 +1,21 @@
+.container-row {
+    width: 100%;
+    text-align: left;
+}
+
+.label {
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 1%;
+    vertical-align: middle;
+}
+
+.input {
+    margin-right: 1%;
+    height: 25px;
+}
+
+.button {
+    margin-right: 1%;
+    height: 25px;
+}
